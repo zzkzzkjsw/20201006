@@ -2,7 +2,7 @@
 #include<vector>
 #include<string>
 #include<sstream>
-
+#include<algorithm>
 #include<cstring>
 #define maxn 200005
 using namespace std;
