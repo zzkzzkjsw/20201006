@@ -18,7 +18,6 @@ int first_time=1;
 
 void dfs(int node,bool is_noted)
 {
-    printf("lll");
     if (!is_noted)
     {
         ans.push_back(value[node]);
