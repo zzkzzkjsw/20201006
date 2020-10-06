@@ -3,7 +3,7 @@
 #include<string>
 #include<sstream>
 #include<algorithm>
-
+#include<ammintrin.h>
 #include<cstring>
 #define maxn 200005
 using namespace std;
